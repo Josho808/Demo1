@@ -14,9 +14,9 @@
 
     <?php
     // Instantiate variables
-    $name = "Josh Onaka"; // name of person
-    $title = "student"; // title of person
-    $age = 38;
+    $name = "Keanu Onaka"; // name of person
+    $title = "Son"; // title of person
+    $age = 5;
 
     echo "<h2>" . $name . " - " . $title . "</h2>";
     echo "<p>This person is " . $age . "years old</p>";
